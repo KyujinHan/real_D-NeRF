@@ -29,7 +29,9 @@ $data_folder> python [your_local_path]/colmap2nerf.py --colmap_matcher exhaustiv
 ----------  
 # MyResult  
 ## Input  
-
+  
+## Result  
+  
 ----------  
 # References
 [Instant-NGP](https://github.com/NVlabs/instant-ngp)  
