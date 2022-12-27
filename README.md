@@ -4,8 +4,10 @@ Let's implement real time scene in D-NeRF
 ----------
 # Get started
 ## Envrionment  
+1. First, you must install [COLMAP](https://kyujinpy.tistory.com/27).
 
-
+2. And, you prepare your video.mp4.  
+  
 ----------
 # How to implement
 1. Video input  
@@ -18,3 +20,7 @@ Let's implement real time scene in D-NeRF
 
 ```
 ----------  
+# References
+[Instant-NGP](https://github.com/NVlabs/instant-ngp)  
+[How to install COLMAP](https://ikaros79.tistory.com/entry/Instant-NGP-01-Windows%EC%97%90%EC%84%9C-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)  
+
