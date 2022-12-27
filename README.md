@@ -27,6 +27,10 @@ $data_folder> python [your_local_path]/colmap2nerf.py --colmap_matcher exhaustiv
 >> And, you can adjust many arguments.  
   
 ----------  
+# MyResult  
+## Input  
+
+----------  
 # References
 [Instant-NGP](https://github.com/NVlabs/instant-ngp)  
 [How to install COLMAP](https://ikaros79.tistory.com/entry/Instant-NGP-01-Windows%EC%97%90%EC%84%9C-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)  
