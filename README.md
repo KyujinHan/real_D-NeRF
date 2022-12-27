@@ -26,6 +26,7 @@ $data_folder> python [your_local_path]/colmap2nerf.py --colmap_matcher exhaustiv
 >> Before you already make 'json' file, you input keyword 'y'. Then, the program will implement training stage.  
 >> And, you can adjust many arguments.  
   
++) My opencv2nerf's fps is 10.0. (I set this)  
 ----------  
 # MyResult  
 ## Input(Video type)  
