@@ -8,9 +8,13 @@ Let's implement real time scene in D-NeRF
 
 ----------
 # How to implement
+1. Video input  
 ```
-1. Video input to './data/video/' folder
-
-2. And 
+'./data/video/' folder
 ```  
+  
+2. Run scripts  
+```
+
+```
 ----------  
