@@ -32,7 +32,7 @@ $data_folder> python [your_local_path]/colmap2nerf.py --colmap_matcher exhaustiv
 ![0246](https://user-images.githubusercontent.com/98331298/209640151-129b88c0-961b-4447-aeb9-9b5c3e067097.jpg)  
   
 ## Result  
-  
+(Will be add)  
 ----------  
 # References
 [Instant-NGP](https://github.com/NVlabs/instant-ngp)  
