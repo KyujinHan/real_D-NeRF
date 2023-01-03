@@ -36,7 +36,7 @@ $data_folder> python [your_local_path]/colmap2nerf.py --colmap_matcher exhaustiv
 ![images_spiral_800000_disp](https://user-images.githubusercontent.com/98331298/210346479-31cbd4f5-7a4c-432b-b6f3-0ca8c18df66d.gif)
 ![images_spiral_800000_rgb](https://user-images.githubusercontent.com/98331298/210346646-74f7ee81-fa7f-4456-bb72-3d6a4ff5bea7.gif)
 ----------  
-## Be Careful
+# Be Careful
 ```
 # My some arguments
 no_ndc = True
