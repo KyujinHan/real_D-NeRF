@@ -36,6 +36,16 @@ $data_folder> python [your_local_path]/colmap2nerf.py --colmap_matcher exhaustiv
 ![images_spiral_800000_disp](https://user-images.githubusercontent.com/98331298/210346479-31cbd4f5-7a4c-432b-b6f3-0ca8c18df66d.gif)
 ![images_spiral_800000_rgb](https://user-images.githubusercontent.com/98331298/210346646-74f7ee81-fa7f-4456-bb72-3d6a4ff5bea7.gif)
 ----------  
+## Be Careful
+```
+# My some arguments
+no_ndc = True
+near = 2
+Far = 6
+```  
+>> Before I tested 'no_ndc = False, near = 0, Far = 1', in this case, the output image is so bad.  
+>> So, I set argument like above block.  
+----------  
 # References
 [Instant-NGP](https://github.com/NVlabs/instant-ngp)  
 [How to install COLMAP](https://ikaros79.tistory.com/entry/Instant-NGP-01-Windows%EC%97%90%EC%84%9C-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)  
